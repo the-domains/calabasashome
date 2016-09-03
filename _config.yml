@@ -1,7 +1,6 @@
 layout_spectrum: 0.4586847
-typography_spectrum: 0.2394604
 color:
-  saturation: 0.311973
+  saturation: 0.8844857
   brandStrength: 0.539629
   lightness: 0.6846543
   brandColors:
@@ -11,4 +10,5 @@ color:
     - '#B8A968'
     - '#E5DEC3'
   rhythmicContrast: 0.7521079
+typography_spectrum: 0.2394604
 name: CalabasasHome
